@@ -15,7 +15,7 @@
 	"Modules" :
 	[
 		{
-			"Name" : "VaRest",
+			"Name" : "MMW",
 			"Type" : "Runtime",
 			"LoadingPhase": "PreDefault"
 		},
