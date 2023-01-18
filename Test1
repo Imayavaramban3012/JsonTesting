@@ -12,11 +12,23 @@
 	"DocsURL": "https://bit.ly/VaRest-Docs",
 	"MarketplaceURL" : "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f",
 
-	"Modules" :
+	"MMW" :
 	[
 		{
-			"Name" : "MMW",
+			"Name" : "Imai",
 			"Type" : "pass",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "VaRestEditor",
+			"Type": "UncookedOnly"
+		}
+	]
+	"MMW1" :
+	[
+		{
+			"Name" : "Goku",
+			"Type" : "1234",
 			"LoadingPhase": "PreDefault"
 		},
 		{
