@@ -16,8 +16,14 @@
 	[
 		{
 			"Name" : "Imai",
-			"Type" : "pass",
-			"LoadingPhase": "PreDefault"
+			"Type" : "pass"
+		}
+	]
+	"MMW1" :
+	[
+		{
+			"Name" : "Imai",
+			"Type" : "pass"
 		}
 	]
 }
