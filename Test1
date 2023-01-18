@@ -16,7 +16,8 @@
 	[
 		{
 			"Name" : "Imai",
-			"Type" : "pass"
+			"Type" : "pass",
+			"Life" : "Uruttu"
 		}
 	]
 }
