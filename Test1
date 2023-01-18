@@ -16,7 +16,7 @@
 	[
 		{
 			"Name" : "MMW",
-			"Type" : "Runtime",
+			"Type" : "pass",
 			"LoadingPhase": "PreDefault"
 		},
 		{
