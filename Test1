@@ -1,5 +1,5 @@
 {
-	"FileVersion" : 4,
+	"FileVersion" : 3,
 	
 	"FriendlyName" : "VaRest",
 	"Version" : 32,
@@ -17,18 +17,6 @@
 		{
 			"Name" : "Imai",
 			"Type" : "pass",
-			"LoadingPhase": "PreDefault"
-		},
-		{
-			"Name": "VaRestEditor",
-			"Type": "UncookedOnly"
-		}
-	]
-	"MMW1" :
-	[
-		{
-			"Name" : "Goku",
-			"Type" : "1234",
 			"LoadingPhase": "PreDefault"
 		},
 		{
